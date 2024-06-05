@@ -1,0 +1,3 @@
+[submodule "SDGOne"]
+	path = SDGOne
+	url = https://github.com/ProfEspinosaAIML/SDGOne.git
